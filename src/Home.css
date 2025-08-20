@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;700&display=swap');
+
+
+.welcomeMessage {
+  font-family: "Montserrat";
+  align-items: left;
+  justify-content: left;
+  display: flex;
+}
+
+.homepage {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+  overflow-y: auto;
+  align-items: stretch;
+}
+
+.contacts {
+  border: 2px solid #007AFF;
+  padding: 20px;
+  width: 200px;
+  height: 600px;
+  overflow-y: auto;
+}
+
+.message {
+  border: 2px solid #007AFF;
+  padding: 20px;
+  width: 700px;
+}

@@ -1,0 +1,141 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+HU:wght@300;400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;700&display=swap');
+
+.landingPage {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  gap: 50px;
+}
+
+.title {
+  font-size: 35px;
+  color: white;
+  font-family: "Playwrite HU";
+  border-radius: 2px solid;
+  border-radius: 50px;
+  background-color: #007AFF;
+  width: 300px;
+  height: 2.2em;
+  margin-top: 40px;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  text-align: center;
+  box-shadow: 0 4px 16px rgba(0, 122, 255, 0.2);
+}
+
+.access {
+  color: #007AFF;
+  display: flex;
+  gap: 15px;
+  flex-direction: column;
+}
+
+.button {
+  padding: 20px;
+  background-color: #007AFF;
+  color: white;
+  border-radius: 50px;
+  font-family: "Montserrat";
+  font-size: 20px;
+  font-weight: 700;
+  transition: transform 0.5s ease;
+  border: none;
+  width: auto;
+  cursor: pointer;
+  box-shadow: 0 4px 16px rgba(0, 122, 255, 0.2);
+}
+
+.button:hover {
+  transform: scale(1.1);
+}
+
+.google_logo {
+  width: 50px;
+  height: 50px;
+  padding: 10px;
+}
+
+.sso {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.message_test {
+  justify-content: center;
+  align-items: center;
+  font-size: 50px;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-direction: row;
+}
+
+.input-box {
+  border-radius: 20px;
+  width: 1000px;
+  padding: 20px;
+  font-family: 'Montserrat';
+  font-weight: 500;
+}
+
+.send-button {
+  color: white;
+  border-radius: 20px;
+  font-family: 'Montserrat';
+  padding: 10px;
+  background-color: #007AFF;
+  box-shadow: 0 4px 16px rgba(0, 122, 255, 0.2);
+}
+
+.form {
+  display: flex;
+  text-align: right;
+  justify-content: right;
+  margin: 0 auto;
+  gap: 20px;
+}
+
+.user-messages {
+  display: flex;
+  flex-direction: column;
+  justify-content: right;
+  text-align: right;
+  font-family: 'Montserrat';
+  padding-right: 10px;
+}
+
+.message {
+  border-radius: 40px;
+  margin-left: auto; 
+  text-align: right;
+  display: inline-block;
+  max-width: 60%;
+}
+
+.message-picture {
+  border-radius: 50px;
+  width: 50px;
+  height: 50px;
+}
+
+.message1 {
+  color: white;
+  background-color: #007AFF;
+  font-family: 'Montserrat';
+  border: 1px solid #ccc;
+  padding: 20px;
+  border-radius: 50px;
+  word-break: break-word;
+}
+
+.profile-picture-main {
+  border-radius: 50px;
+}

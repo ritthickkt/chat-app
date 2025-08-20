@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+HU:wght@300;400;700&display=swap');
+
+.register {
+  display: flex;
+  font-family: "Playwrite+";
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin: 0 auto;
+  gap: 20px;
+}
+
+.title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+  margin-bottom: 120px;
+  margin-top: 50px;
+}
+
+.input-field {
+  border-radius: 50px;
+  border: 2px solid #007AFF; 
+  padding: 20px
+}
