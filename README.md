@@ -83,9 +83,3 @@ public/
 - **Fonts:**  
   Uses Google Fonts (Montserrat, Playwrite HU).  
   If fonts do not load in Electron, consider bundling them locally.
-
-
----
-
-**Made with ❤️ using React,
-
