@@ -15,7 +15,7 @@ A real-time chat application built with React, Firebase, and Electron.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/my-chat-app.git
+https://github.com/ritthickkt/chat-app.git
 cd my-chat-app
 ```
 
@@ -83,3 +83,4 @@ public/
 - **Fonts:**  
   Uses Google Fonts (Montserrat, Playwrite HU).  
   If fonts do not load in Electron, consider bundling them locally.
+
