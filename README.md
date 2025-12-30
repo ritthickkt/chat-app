@@ -4,11 +4,11 @@ A real-time chat application built with React, Firebase, and Electron.
 
 ## Features
 
-- 🔥 Real-time messaging using Firestore
-- 🔒 Google authentication with Firebase Auth
-- 🖼️ User profile pictures in chat
-- 🚀 Desktop support via Electron
-- 🎨 Responsive and modern UI
+- Real-time messaging using Firestore
+- Google authentication with Firebase Auth
+- User profile pictures in chat
+- Desktop support via Electron
+- Responsive and modern UI
 
 ## Getting Started
 
@@ -83,4 +83,5 @@ public/
 - **Fonts:**  
   Uses Google Fonts (Montserrat, Playwrite HU).  
   If fonts do not load in Electron, consider bundling them locally.
+
 
